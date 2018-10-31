@@ -40,6 +40,9 @@ def main():
         'O-Contact%',
         'Z-Contact%',
         'Contact%',
+        'Hard%',
+        'Med%',
+        'Soft%',
     ]
 
     stats_of_interest = [

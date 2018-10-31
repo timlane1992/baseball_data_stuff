@@ -36,6 +36,9 @@ def main():
         'O-Contact%',
         'Z-Contact%',
         'Contact%',
+        'Hard%',
+        'Soft%',
+        'Med%',
     ]
 
     # If the stat's name ends in '%', need to strip any % off back of
