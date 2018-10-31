@@ -12,7 +12,7 @@ import pandas as pd
 # Contains various per-season stats and limited descriptive info for
 # all hitters with at least 200 PAs in either 2017 or 2018.
 # Obtained via exporting data from the following URL:
-# https://www.fangraphs.com/leaders.aspx?pos=np&stats=bat&lg=all&qual=200&type=c,4,6,11,12,13,21,34,35,41,23,37,38,44,45,43,102,103,104,105,106,107&season=2018&month=0&season1=2017&ind=1&team=0&rost=0&age=0&filter=&players=0&sort=5,a
+# https://www.fangraphs.com/leaders.aspx?pos=np&stats=bat&lg=all&qual=200&type=c,4,6,11,12,13,21,34,35,41,23,37,38,44,45,43,102,103,104,105,106,107,209,210,211&season=2018&month=0&season1=2017&ind=1&team=0&rost=0&age=0&filter=&players=0
 CSV_FILENAME = 'hitters_2017_2018.csv'
 
 
